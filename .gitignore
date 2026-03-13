@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# Azure Functions local settings
+local.settings.json
+
+# Logs
+*.log
+
+# Packaged artifacts
+released-package.zip
+
+# Python packages (built during CI)
+.python_packages/
+
+# Claude local settings (may contain secrets)
+.claude/settings.local.json

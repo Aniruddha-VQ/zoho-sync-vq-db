@@ -1,0 +1,26 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "SYNC_CRON": "0 30 1 * * *",
+    "ZOHO_BASE_URL": "https://www.zohoapis.in",
+    "ZOHO_ACCOUNTS_BASE_URL": "https://accounts.zoho.in",
+    "ZOHO_CLIENT_ID": "",
+    "ZOHO_CLIENT_SECRET": "",
+    "ZOHO_REFRESH_TOKEN": "",
+    "ZOHO_CONTACTS_MODULE": "Contacts",
+    "ZOHO_DEALS_MODULE": "Deals",
+    "ZOHO_SCHEMA": "zoho",
+    "SQL_AUTO_INIT_SCHEMA": "true",
+    "SYNC_LOOKBACK_MINUTES": "5",
+    "SQL_SERVER": "",
+    "SQL_DATABASE": "vqportal",
+    "SQL_PORT": "1433",
+    "SQL_AUTH_MODE": "managed_identity",
+    "SQL_MANAGED_IDENTITY_CLIENT_ID": "",
+    "SQL_ODBC_DRIVER": "ODBC Driver 18 for SQL Server",
+    "SQL_USERNAME": "",
+    "SQL_PASSWORD": ""
+  }
+}
