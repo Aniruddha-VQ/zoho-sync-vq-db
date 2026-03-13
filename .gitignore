@@ -20,3 +20,6 @@ released-package.zip
 
 # Claude local settings (may contain secrets)
 .claude/settings.local.json
+
+# SQL scripts (schema DDL is in db.py, these are for manual/ad-hoc use)
+sql/
